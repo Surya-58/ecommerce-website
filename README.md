@@ -43,5 +43,5 @@ fullstack-ecommerce/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/fullstack-ecommerce.git
+git clone https://github.com/surya-58/fullstack-ecommerce.git
 cd fullstack-ecommerce
